@@ -8,7 +8,7 @@ The classic "hello world" message
 
 ## Output
 
-I should output
+It should output
 
 ```
 hello world
