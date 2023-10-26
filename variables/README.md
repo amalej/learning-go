@@ -8,14 +8,12 @@ How to declare variables
 
 ## Output
 
-It should output
-
 ```
 initial
 Some Message
 0
 
-apple
+bannana
 ```
 
 ## Notes
@@ -39,7 +37,7 @@ func main() {
 	var e string // Declare a variable with the type of "int". A string will default to a blank
 	fmt.Println(e)
 
-	f := "apple" // ":=" is a syntax used for declaring and initializing a variable
+	f := "bannana" // ":=" is a syntax used for declaring and initializing a variable
 	fmt.Println(f)
 }
 

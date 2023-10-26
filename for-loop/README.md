@@ -1,14 +1,12 @@
-# Variables
+# For Loop
 
-How to declare variables
+How to use for loops
 
 ## How to run
 
 1. Run `go run main.go`
 
 ## Output
-
-It should output
 
 ```
 Incemental loop from 1-3

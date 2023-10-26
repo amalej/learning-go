@@ -8,8 +8,6 @@ The classic "hello world" message
 
 ## Output
 
-It should output
-
 ```
 hello world
 ```
