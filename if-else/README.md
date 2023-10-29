@@ -1,6 +1,6 @@
-# For Loop
+# If Else
 
-How to use for loops
+How to use If-Else statements
 
 ## How to run
 
